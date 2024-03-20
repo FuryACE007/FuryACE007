@@ -1,12 +1,10 @@
-[![MasterHead](https://images.unsplash.com/photo-1623479322729-28b25c16b011?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)]
+![MasterHead](https://images.unsplash.com/photo-1623479322729-28b25c16b011?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Sudhanshu Shekhar</h1>
 <h3 align="center">A passionate Web3 builder🛠️ from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furyace007&label=Profile%20views&color=0e75b6&style=flat" alt="furyace007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furyace007" alt="furyace007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/0xa3r3s" target="blank"><img src="https://img.shields.io/twitter/follow/0xa3r3s?logo=twitter&style=for-the-badge" alt="0xa3r3s" /></a> </p>
 
