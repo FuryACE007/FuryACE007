@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1623479322729-28b25c16b011?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![MasterHead](https://cdn.dribbble.com/users/6053640/screenshots/15249999/media/133c5ba4c6946a8e31bd40a06e27ff78.jpg?resize=1600x1200&vertical=center)
 <h1 align="center">Hi 👋, I'm Sudhanshu Shekhar</h1>
 <h3 align="center">A passionate Web3 builder🛠️ from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
